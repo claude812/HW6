@@ -1,0 +1,84 @@
+/* Color Palette
+
+Primary:
+#0891B2
+(Cyan)
+Secondary:
+#06B6D4
+(Bright Cyan)
+Accent:
+#F97316
+(Orange)
+Neutral:
+#F9FAFB
+(Off-White)
+Text:
+#0F172A
+(Slate)
+*/
+
+/* Global styles 
+------------------------------------*/
+body {
+font-family: 'Fira Sans', sans-serif;
+background-color:#F9FAFB;
+}
+h1, h2, h3 {
+    font-family: 'Oswald', sans-serif;
+}
+h1{
+font-size: 3rem;
+font-weight:600;
+}
+h2{
+font-size: 2rem;
+font-weight:500;
+}
+h3{
+font-size: 1.5rem;
+font-weight:400;
+}
+
+/* Work Experience
+------------------------------------*/
+
+   .work{
+   background-color:#06B6D4;
+   color:#0F172A;
+
+
+   }
+   /* Education
+   ------------------------------------*/
+   .education{
+   background-color:#06B6D4;
+      color:#0F172A;
+
+   }
+
+
+
+/* Header & Footer 
+------------------------------------*/
+header{
+background-color:#0891B2;
+color:#F9FAFB;
+text-align:center
+}
+footer{
+background-color:#06B6D4;
+color:#0F172A;
+text-align:center;
+
+
+}
+
+.me{
+width:230px;
+height:230px;
+}
+
+
+
+
+
